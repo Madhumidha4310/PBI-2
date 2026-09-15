@@ -6,6 +6,8 @@ This project is an interactive **Sales Dashboard developed using Microsoft Power
 
 The dashboard provides a visual overview of sales performance, profit, discount, orders, product sub-categories, regions, and yearly trends. Interactive slicers allow users to filter the dashboard and explore the data from different perspectives.
 
+---
+
 ## 🎯 Objectives
 
 The main objectives of this Power BI project are:
@@ -20,12 +22,16 @@ The main objectives of this Power BI project are:
 * Analyze profit distribution across sub-categories.
 * Filter the dashboard based on year, region, sub-category, and quantity.
 
+---
+
 ## 🛠️ Tools & Technologies
 
 * **Microsoft Power BI**
 * **Power Query**
 * Data Modeling
 * Interactive Data Visualization
+
+---
 
 ## 📊 Dashboard Overview
 
@@ -105,6 +111,8 @@ A **Line Chart** compares multiple measures across years, including:
 
 This helps identify changes in business performance over time.
 
+---
+
 ## 🗂️ Data Model
 
 The Power BI report uses multiple logical tables/entities, including:
@@ -153,6 +161,8 @@ The dashboard uses measures for important business KPIs, including:
 
 These measures are used in KPI cards and visualizations to provide summarized business insights.
 
+---
+
 ## 🔍 Business Insights
 
 The dashboard can help users answer questions such as:
@@ -166,6 +176,8 @@ The dashboard can help users answer questions such as:
 * Which regions can be analyzed for better performance?
 * How does quantity affect the overall analysis?
 
+---
+
 ## 📁 Project Structure
 
 ```text
@@ -177,6 +189,8 @@ Sales-Dashboard-PowerBI/
 ├── superstore_raw.csv
 └── README.md
 ```
+
+---
 
 ## 🚀 How to Use
 
@@ -226,6 +240,8 @@ This project demonstrates practical knowledge of:
 * Business Intelligence
 * Exploratory Business Analysis
 * Data Interpretation
+
+---
 
 ## 👩‍💻 Author
 
