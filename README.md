@@ -215,6 +215,8 @@ Use the available slicers to interact with the dashboard:
 
 Interact with the charts and KPI cards to understand sales and profitability from different perspectives.
 
+---
+
 ## 💡 Project Highlights
 
 * Interactive Power BI dashboard
@@ -226,6 +228,8 @@ Interact with the charts and KPI cards to understand sales and profitability fro
 * Region-based filtering
 * Quantity-based filtering
 * Interactive dashboard experience
+
+---
 
 ## 🎓 Skills Demonstrated
 
